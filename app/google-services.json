@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146426536002",
+    "project_id": "chatapp-dd717",
+    "storage_bucket": "chatapp-dd717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146426536002:android:f135c7770222fba2584ddb",
+        "android_client_info": {
+          "package_name": "com.nexim.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUM7WGiGZrobS5OUWEAwt-umgze9kaKkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
